@@ -22,7 +22,7 @@ except ImportError:
 print('Begin Setup')
 # Constants
 JSON_URL = "http://api.wmata.com/StationPrediction.svc/json/GetPrediction/E04?%s"
-headers = {'api_key': 'af18089c0c704f729aecdbc1cd79d62d',}
+headers = {'api_key': 'XXX',}
 CDat=[]
 StDat = ''
 
